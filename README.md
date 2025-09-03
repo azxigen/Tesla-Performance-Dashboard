@@ -21,7 +21,9 @@ I set myself two creative challenges:
    - This visual became the **hero element** of Page 1, set against a custom monochrome digital grid background (`monochrome-digital-grid.avif`).
 
 > **Note on Page 2:**  
-> The `.pbix` file contains a Page 2, but it was not created by me. It appears to be a blank or placeholder page automatically generated when I first set up the file. Since my focus was entirely on crafting a polished, cinematic Page 1, I left Page 2 untouched.
+> This dashboard was originally planned as a two‑page project.  
+> However, I focused my time and creative energy on perfecting Page 1, and Page 2 was never developed.  
+> The current version is a complete, standalone single‑page dashboard — but the structure allows for future expansion if I decide to add more content.
 
 The result is a dashboard that merges **analytics** with **artistry**, making the data feel alive.
 
@@ -52,3 +54,46 @@ The result is a dashboard that merges **analytics** with **artistry**, making th
 
 ## 🗂 File Structure
 
+/pbix
+   tesla-performance-dashboard.pbix      → Power BI dashboard file
+
+/data
+   tesla_futuristic_dashboard.csv        → Custom dataset generated via Python
+
+/code
+   tesla.py                               → Python script used to create the dataset
+
+/images
+   Dashboard-preview.png                  → Screenshot of Page 1 of the dashboard
+   davinci-project-tesla.png               → Screenshot of the DaVinci Resolve project
+   monochrome-digital-grid.avif            → Background image for Page 1
+
+/media
+   tesla-3d-visuals.mp4                    → Edited 3D Tesla visual from DaVinci Resolve
+   tesla-3d-visuals-gif.gif                    → GIF version of the 3D Tesla visual
+   tesla-roadster-2020-3d-model.mp4        → Original YouTube source video
+
+---
+
+## ⚙️ How to Use
+
+1. **Download or clone** this repository.
+2. Open `pbix/tesla-performance-dashboard.pbix` in Power BI Desktop.
+3. Ensure the data source points to `/data/tesla_futuristic_dashboard.csv`.
+4. Refresh the dashboard to load visuals.
+
+---
+
+## 🛠 Tools & Skills Used
+
+- **Power BI** — Data modeling, DAX measures, KPI cards, custom visuals.
+- **Python** — Dataset generation.
+- **DaVinci Resolve** — Video editing, 3D visual creation.
+- **GitHub** — Project hosting and documentation.
+
+---
+
+## 📌 About This Project
+
+This dashboard is a **fusion of analytics and creative media** — built to show that data visualization can be as engaging as a cinematic trailer.  
+It’s not just about numbers; it’s about **how you make people feel when they see them**.
