@@ -1,16 +1,16 @@
 # === Portfolio media previews to ignore ===
 
 # Dashboard preview image(s)
-dashboard-preview.png
+Dashboard-preview.png
 dashboard-preview.jpg
 
 # DaVinci Resolve exported PNGs
-*.davinci.png
+davinci-project-tesla.png
 davinci-*.png
 
 # Monochrome AVIF images
-*.monochrome.avif
+monochrome-digital-grid.avif
 monochrome-*.avif
 
 # Animated GIF previews
-*.gif
+tesla-3d-visuals-gif.gif
