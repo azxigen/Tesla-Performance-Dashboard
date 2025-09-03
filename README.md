@@ -30,10 +30,10 @@ The result is a dashboard that merges **analytics** with **artistry**, making th
 ## 🖼 Preview
 
 **Dashboard Overview (Page 1)**  
-![Tesla Dashboard Overview](dashboard-preview.png)
+![Tesla Dashboard Overview](Dashboard-preview.png)
 
 **Custom 3D Tesla Visual (GIF)**  
-![Tesla 3D Visual](tesla-3d-visuals.gif)
+![Tesla 3D Visual](tesla-3d-visuals-gif.gif)
 
 **DaVinci Resolve Project Screenshot**  
 ![DaVinci Resolve Project](davinci-project-tesla.png)
