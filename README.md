@@ -35,10 +35,10 @@ The result is a dashboard that merges **analytics** with **artistry**, making th
 ![Dashboard Preview](https://raw.githubusercontent.com/azxigen/Tesla-Performance-Dashboard/assets/Dashboard-preview.png)
 
 **Custom 3D Tesla Visual (GIF)**  
-![Tesla 3D Visuals](https://raw.githubusercontent.com/YOURUSER/YOURREPO/main/assets/tesla-3d-visuals.gif)
+![Tesla 3D Visuals](tesla-3d-visuals-gif.gif)
 
 **DaVinci Resolve Project Screenshot**  
-![Davinci Preview](https://raw.githubusercontent.com/YOURUSER/YOURREPO/assets/davinci-project-tesla.png)
+![Davinci Preview](davinci-project-tesla.png)
 
 ---
 
