@@ -1,50 +1,16 @@
-# OS-specific files
-.DS_Store
-Thumbs.db
+# === Portfolio media previews to ignore ===
 
-# Power BI temp/lock files
-*.pbix.lock
-~$*
+# Dashboard preview image(s)
+dashboard-preview.png
+dashboard-preview.jpg
 
-# Office temp files
-*.tmp
-*.bak
-*.lock
+# DaVinci Resolve exported PNGs
+*.davinci.png
+davinci-*.png
 
-# Jupyter Notebook checkpoints (if you add notebooks later)
-.ipynb_checkpoints/
+# Monochrome AVIF images
+*.monochrome.avif
+monochrome-*.avif
 
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Virtual environments
-.env/
-.venv/
-env/
-venv/
-ENV/
-
-# VSCode settings
-.vscode/
-
-# DaVinci Resolve cache & backups
-*.drp
-*.dpx
-*.wav
-*.mov
-*.braw
-*.cache
-*.backup
-
-# Design/source files (if any)
-*.psd
-*.ai
-*.sketch
-
-# Archives
-*.zip
-*.rar
-*.7z
+# Animated GIF previews
+*.gif
