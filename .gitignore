@@ -1,0 +1,34 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Power BI / Office temp files
+~$*
+*.tmp
+*.bak
+*.lock
+
+# DaVinci Resolve cache & backups
+*.drp
+*.dpx
+*.wav
+*.mov
+*.braw
+*.cache
+*.backup
+
+# Design/source files (if any)
+*.psd
+*.ai
+*.sketch
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
