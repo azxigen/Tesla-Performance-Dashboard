@@ -2,11 +2,33 @@
 .DS_Store
 Thumbs.db
 
-# Power BI / Office temp files
+# Power BI temp/lock files
+*.pbix.lock
 ~$*
+
+# Office temp files
 *.tmp
 *.bak
 *.lock
+
+# Jupyter Notebook checkpoints (if you add notebooks later)
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# VSCode settings
+.vscode/
 
 # DaVinci Resolve cache & backups
 *.drp
@@ -26,9 +48,3 @@ Thumbs.db
 *.zip
 *.rar
 *.7z
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
