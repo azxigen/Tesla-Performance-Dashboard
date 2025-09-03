@@ -32,7 +32,7 @@ The result is a dashboard that merges **analytics** with **artistry**, making th
 ## 🖼 Preview
 
 **Dashboard Overview (Page 1)**  
-![Tesla Dashboard Overview](Dashboard-preview.png)
+![Dashboard Preview](https://raw.githubusercontent.com/azxigen/Tesla-Performance-Dashboard/assets/Dashboard-preview.png)
 
 **Custom 3D Tesla Visual (GIF)**  
 ![Tesla 3D Visual](tesla-3d-visuals-gif.gif)
